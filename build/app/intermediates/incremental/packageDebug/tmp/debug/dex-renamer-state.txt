@@ -1,0 +1,4 @@
+#Sun Mar 12 17:40:23 EET 2023
+base.0=C\:\\Users\\alaay\\StudioProjects\\note_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
